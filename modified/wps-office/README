@@ -1,0 +1,15 @@
+WPS Office (an office productivity suite for Linux)
+
+WPS Office, including Writer, Presentation and spreadsheets, is a
+powerful office suite. It is deeply compatible with all of the
+latest Microsoft Office file formats. It can easily open and read
+the documents created with Microsoft Office.
+
+Troubleshooting: WPS Office Overriding/Breaks Mime
+To Fix this problem you need to edit: ~/.config/Kingsoft/Office.conf
+
+Add the following before [kdcsdk]:
+
+common\do_not_detect_file_association_while_startup=true
+
+Save and restart WPS Office.

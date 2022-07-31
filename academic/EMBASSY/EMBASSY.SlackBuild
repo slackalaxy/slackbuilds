@@ -430,7 +430,7 @@ LDFLAGS="-L/usr/lib${LIBDIRSUFFIX}/EMBOSS" \
 make
 make install DESTDIR=$PKG
 
-mv $PKG/usr/share/PHYLIPNEW $PKG/usr/share/EMBASSY
+mv $PKG/usr/share/PHYLIPNEW $PKG/usr/share/EMBOSS
 
 find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true

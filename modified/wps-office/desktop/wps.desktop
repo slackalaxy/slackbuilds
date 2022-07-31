@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WPS Office Writer
+Comment=WPS Office Writer
+Exec=wps
+Icon=wps-office-wpsmain
+StartupNotify=false
+Type=Application
+Categories=Office

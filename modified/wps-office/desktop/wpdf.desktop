@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WPS Office PDF
+Comment=WPS Office PDF
+Exec=wpspdf
+Icon=wps-office-wpdfmain
+StartupNotify=false
+Type=Application
+Categories=Office
