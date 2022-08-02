@@ -1,0 +1,16 @@
+PRGNAM="fonts-apple"
+VERSION="WWDC22"
+HOMEPAGE="https://developer.apple.com/fonts/"
+DOWNLOAD="https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg \
+https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg \
+https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg \
+https://devimages-cdn.apple.com/design/resources/download/NY.dmg"
+MD5SUM="bed80359c1696136b57cb80b5238ed6a \
+49e415d79e19965b91fff9590b45a279 \
+9af13b3d0e2c53128ddd8c4d62e75247 \
+b206967afcfd62687487da3a8ccd1fff"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES="p7zip"
+MAINTAINER="Petar Petrov"
+EMAIL="slackalaxy at gmail dot com"

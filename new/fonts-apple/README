@@ -1,0 +1,29 @@
+Fonts for Apple platforms
+
+Get the details, frameworks, and tools you need to use system fonts for Apple
+platforms in your apps. These typefaces offer the control and flexibility to
+optimally display text at a variety of sizes, in many different languages,
+across multiple interfaces.
+
+SF Pro
+This neutral, flexible, sans-serif typeface is the system font for iOS, iPad OS,
+macOS and tvOS. SF Pro features nine weights, variable optical sizes for optimal
+legibility, four widths, and includes a rounded variant. SF Pro supports over
+150 languages across Latin, Greek, and Cyrillic scripts.
+
+SF Compact
+Sharing many features with SF Pro, SF Compact features an efficient, compact
+design that is optimized for small sizes and narrow columns. SF Compact is the
+system font for watchOS and includes a rounded variant.
+
+SF Mono
+This monospaced variant of San Francisco enables alignment between rows and
+columns of text, and is used in coding environments like Xcode. SF Mono features
+six weights and supports Latin, Greek, and Cyrillic scripts.
+
+New York
+A companion to San Francisco, this serif typeface is based on essential aspects
+of historical type styles. New York features six weights, supports Latin, Greek
+and Cyrillic scripts, and features variable optical sizes allowing it to perform
+as a traditional reading face at small sizes and a graphic display face at
+larger sizes.
